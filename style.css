@@ -10,7 +10,6 @@ body {
   background: linear-gradient(0deg, rgb(164, 248, 164), #41c9e2);
 }
 .card {
-  position: relative;
   width: 60%;
   max-width: 470px;
   background: linear-gradient(135deg, #f7eedd, #41c9e2, 0);

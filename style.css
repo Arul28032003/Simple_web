@@ -163,7 +163,7 @@ body {
   }
   .outer img {
     width: 125px;
-    top: 15%;
+    top: 40%;
     left: 50%;
   }
   .outer2 img {
@@ -173,7 +173,10 @@ body {
   }
   .outer3 img {
     width: 200px;
-    top: 25%;
+    top: 65%;
     left: 15%;
+  }
+  .card {
+    width: 500px;
   }
 }

@@ -1,4 +1,4 @@
-const apikey = process.env.API_URL;;
+const apikey = process.env.API_KEY;;
 const apiurl =
   "https://api.openweathermap.org/data/2.5/weather?&units=metric&q=";
 const searchbox = document.querySelector(".search input");
